@@ -1,7 +1,9 @@
 ## ssh-keygen-impostor
 
 Joe Kamibeppu
+
 COMP116 Fall 2016
+
 Final project supporting material
 
 ### Contents
