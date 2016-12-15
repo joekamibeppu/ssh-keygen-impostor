@@ -18,7 +18,7 @@ The Bash scripts could perform other undesired actions, but these three actions 
 
 ### Usage
 
-Please clone the repository into a Bash environment. In order to load the impostor function into the local command prompt, run:
+Please clone the repository into a Bash environment, and switch into the repository. In order to load the impostor function into the local command prompt, run:
 
 `source export_ssh_keygen.txt`
 
