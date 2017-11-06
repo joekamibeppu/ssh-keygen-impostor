@@ -1,11 +1,5 @@
 ## ssh-keygen-impostor
 
-Joe Kamibeppu
-
-COMP116 Fall 2016
-
-Final project supporting material
-
 ### Contents
 
 This repository contains two Bash scripts that load an `ssh-keygen` impostor into the current command prompt. This impostor function is meant to be a proof-of-concept of how a Bash user could unknowingly execute arbitrary commands. In order to appear legitimate, the exported function mimics the program output and user input of the OpenSSL `ssh-keygen` command. In reality, the function performs the following malicious actions. **Note: the contents of this repo are completely benign**.
